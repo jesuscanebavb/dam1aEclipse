@@ -9,7 +9,7 @@ public class Main {
 		 * Window > References > Team > Git > Label Decoration (Representacion de los comandos Git, componentes, estado de los archivos...)
 		 * */
 		System.out.println("Hola mundo");
-		
+		System.out.println("Hola mundo 2");
 	}
 
 }
