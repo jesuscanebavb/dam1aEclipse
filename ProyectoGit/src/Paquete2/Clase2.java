@@ -8,6 +8,7 @@ public class Clase2 {
 		System.out.println("Hola en Clase2 de Paquete2");
 		System.out.println("Hola 2 en Clase2 de Paquete2");
 		System.out.println("Cambio en Clase2 en repoGitHub1");
+		System.out.println("Cambio en Clase2 en repoGitHub2");
 	}
 
 }
