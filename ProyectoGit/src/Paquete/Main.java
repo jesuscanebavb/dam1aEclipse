@@ -18,6 +18,8 @@ public class Main {
 		 * Vista Git > Click Der Branches > Switch to... > New Branch > NombreRama
 		 * Cambiar de rama (Chackout): Doble click Branches > Local > NombreRama
 		 * 
+		 * Cuando se cambia a una rama si se crean clases nuevas se crean dentro de ella
+		 * 
 		 * */
 		System.out.println("Hola mundo");
 		System.out.println("Hola mundo 2");
