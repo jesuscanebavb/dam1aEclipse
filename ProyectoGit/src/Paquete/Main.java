@@ -20,6 +20,8 @@ public class Main {
 		 * 
 		 * Cuando se cambia a una rama si se crean clases nuevas se crean dentro de ella
 		 * 
+		 * Fusionar ramas: cambiar a master (checkout) > Clic Der rama > Merge... > Seleccionar rama a fusionar > Merge
+		 * 
 		 * */
 		System.out.println("Hola mundo");
 		System.out.println("Hola mundo 2");
